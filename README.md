@@ -49,7 +49,7 @@ clients who may send corrupted weight updates — a real threat in
 adversarial federated deployments.
 
 ## try it yourself
-huggingFace link: huggingface.co/spaces/firdausiya22/FedGuard
+huggingFace link: https://huggingface.co/spaces/firdausiya22/FedGuard
 
 ## Technologies Used
 Python | Scikit-learn | NumPy | Pandas | Matplotlib | LightGBM
